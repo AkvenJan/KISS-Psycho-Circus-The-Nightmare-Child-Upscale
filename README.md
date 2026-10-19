@@ -7,6 +7,8 @@ For starters I'll place all the original textures including converted from DTX f
 
 More info about DTX and its conversion can be found here:  
 https://github.com/AkvenJan/DTX-Meta-Transfer
+https://www.moddb.com/mods/blood-ii-the-chosen-upscale-pack/tutorials/upscaling-lithtech-engine-games
+https://www.moddb.com/mods/blood-ii-the-chosen-upscale-pack/tutorials/upscaling-lithtech-10-engine-games
 
 Logic of folder structure:
   * Textures - original DTX & SPR - contains original DTX and SPR files, extracted from game archive. Each DTX contain texture in game format. Each SPR file contain sprite logic description based on actual DTX textures
